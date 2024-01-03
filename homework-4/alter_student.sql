@@ -30,4 +30,4 @@ INSERT INTO student (first_name, last_name, birth_date, phone) VALUES
 	('name1', 'lastname1', '1990-01-01', '+7911-111-11-11');	
 
 -- 7. Удалить все данные из таблицы со сбросом идентификатор в исходное состояние
-TRUNCATE TABLE student;
+TRUNCATE TABLE student
